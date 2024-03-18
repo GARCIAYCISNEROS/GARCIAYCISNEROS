@@ -1,0 +1,32 @@
+@charset "utf-8";
+.Estilos {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Titulos {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: bold;
+	color: #F00;
+}
+.cuerpo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: normal;
+	color: #0F0;
+}
+.subtitulo {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #F63;
+}
+.Titulo1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 35px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #F00;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="76%" border="3" align="center">
+  <tr>
+    <td height="179" colspan="2" valign="top" bgcolor="#CCFF00"><img src="../imagenes/5.jpg" width="572" height="175" usemap="#Map" border="0" /></td>
+  </tr>
+  <tr>
+    <td height="39" colspan="2" valign="top"><a href="../index.html">INICIO</a> <a href="../Oferta.html"> OFERTAS</a> <a href="../Personal Administrativo.html">DOCENTES</a> <a href="../Alumnos.html">ALUMNOS</a></td>
+  </tr>
+  <tr>
+    <td width="23%" height="241" valign="top" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="Edit1" -->
+      <p>Edit1</p>
+      <p>&nbsp;</p>
+    <!-- TemplateEndEditable -->
+    <p>&nbsp;</p></td>
+    <td width="77%" height="241" valign="top" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="Edit2" -->Edit2<!-- TemplateEndEditable --><!-- TemplateBeginRepeat name="Rep1" -->
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    <!-- TemplateEndRepeat --></td>
+  </tr>
+  <tr>
+    <td height="53" colspan="2" align="center" bgcolor="#FFFFFF"><p>Dirección::Pnamericana Norte km3 1/2  Telefono :Email:</p>
+    <p>https://sites.google.com/view/unidadeducativacayambe</p>
+    <p>Derechos reservados:Cristopher Cisneros-Dayra Garcia</p></td>
+  </tr>
+</table>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="38,58,163,150" href="#" />
+  <area shape="circle" coords="287,115,29" href="#" />
+  <area shape="rect" coords="461,85,540,148" href="#" />
+</map>
+</body>
+</html>
